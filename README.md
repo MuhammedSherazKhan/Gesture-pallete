@@ -1,2 +1,2 @@
 # Gesture-pallete
-Mini Project 
+
